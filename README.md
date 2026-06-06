@@ -1,16 +1,13 @@
-## Hi there 👋
+## aSelex — Security Researcher
 
-<!--
-**aselex-app/aselex-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on ZK circuit security and Web3 protocol auditing.
 
-Here are some ideas to get you started:
+### Recent Work
+- **Zcash Orchard Circuit Analysis** — post-NU6.2 API hardening research
+- ZK gadget auditing: halo2, bellman, circom
+- Spec-vs-constraints methodology for finding soundness bugs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+Rust · Python · ZK circuits · Smart contract security
+
+📧 For security disclosures and collaboration — open to contact
